@@ -3,7 +3,7 @@
 
 ## Reference
 1. **Unit Test**
--Blog: JavaScript — Unit Testing using Mocha and Chai
+- Blog: JavaScript — Unit Testing using Mocha and Chai
    https://codeburst.io/javascript-unit-testing-using-mocha-and-chai-1d97d9f18e71
 
 2. **Unit Test and Integration Test**
